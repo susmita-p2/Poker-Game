@@ -18,4 +18,4 @@ to ensure accurate rankings and fairness.
 
 Debugging Mechanisms: Ensured robust error handling and smooth gameplay.
 
-**## Skills: Python, Object-oriented-programming(OOP)**
+## **Skills: Python, Object-oriented-programming(OOP)**
