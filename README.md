@@ -1,11 +1,11 @@
-##Poker Game##
+# Poker Game
 
-##Overview
+## Overview
 
 This project is an object-oriented poker game that provides real-time feedback to players. The game is designed with modular classes to handle card operations, player actions, and hand evaluations. 
 It ensures accurate hand-ranking and comparisons through extensive unit testing and debugging techniques.
 
-##Features
+## Features
 
 Object-Oriented Design: Encapsulated classes for card handling, player actions, and hand evaluation.
 
@@ -18,4 +18,4 @@ to ensure accurate rankings and fairness.
 
 Debugging Mechanisms: Ensured robust error handling and smooth gameplay.
 
-#Skills: Python, Object-oriented-programming(OOP)
+**## Skills: Python, Object-oriented-programming(OOP)**
